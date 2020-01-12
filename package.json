@@ -1,0 +1,34 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "Vue.js + Nuxt.js + Firebase.js + Vuetify.js project",
+  "author": "Alexsander Bispo <slins_23@hotmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "eslint-plugin-vue": "^5.2.2",
+    "firebase": "^5.9.2",
+    "nuxt": "^2.2.0",
+    "vuetify": "^1.3.6",
+    "vuetify-loader": "^1.0.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-imports": "^1.5.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-html": "^4.0.6",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  },
+  "main": ".eslintrc.js",
+  "license": "ISC"
+}
