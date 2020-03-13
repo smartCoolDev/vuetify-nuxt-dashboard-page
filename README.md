@@ -108,9 +108,9 @@ status - Status of the project. (Queued, Overdue, Finished, Ongoing)
 
 title - Title of the project.
 
-* **MY FIREBASE RULES WERE SET TO PUBLIC.**
+* **Firebase rules were set to public.**
 
-## THINGS I PLAN/PLANNED ON ADDING TO THIS PAGE, ERRORS THAT NEED TO BE FIXED, ETC... (NO PARTICULAR ORDER)
+## To address
 
 1. Add a loading indicator for asynchronous items in the form of SVG cards.
 
