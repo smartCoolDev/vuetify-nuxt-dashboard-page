@@ -3,7 +3,7 @@
 **Based on "The Net Ninja's" YouTube 'Vuetify' playlist** <br>
 **Link:** `https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5` <br>
 
-* THIS PAGE IS JUST A PROTOTYPE/WAY TO IMPROVE MY VUETIFY, VUE, FIREBASE AND JAVASCRIPT SKILLS!
+The only reason I made this project was to learn how to use Vue, Vuetify and Firebase.
 
 I made this website after watching the videos in the playlist mentioned above, as it was the first time I was learning about Vuetify, practicing it would be good for my understanding of the framework! Same goes for Vue, although it wasn't the first time I used Vue or Nuxt.
 
