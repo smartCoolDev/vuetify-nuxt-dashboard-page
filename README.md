@@ -1,6 +1,7 @@
-# Based on "The Net Ninja's" YouTube 'Vuetify' playlist
+# Dashboard
 
-Link: https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5
+**Based on "The Net Ninja's" YouTube 'Vuetify' playlist**
+**Link:** `https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5`
 
 * THIS PAGE IS JUST A PROTOTYPE/WAY TO IMPROVE MY VUETIFY, VUE, FIREBASE AND JAVASCRIPT SKILLS!
 
