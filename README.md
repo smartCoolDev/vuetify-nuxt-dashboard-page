@@ -1,7 +1,7 @@
 # Dashboard
 
 **Based on "The Net Ninja's" YouTube 'Vuetify' playlist** <br>
-**Link:** `https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5` <br>
+**Link:** <a>https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5</a>
 
 The only reason I made this project was to learn how to use Vue, Vuetify and Firebase.
 
