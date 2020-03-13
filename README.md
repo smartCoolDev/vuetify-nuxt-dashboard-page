@@ -108,7 +108,7 @@ status - Status of the project. (Queued, Overdue, Finished, Ongoing)
 
 title - Title of the project.
 
-* **Firebase rules were set to public.**
+**Firebase rules were set to public.**
 
 ## To address
 
