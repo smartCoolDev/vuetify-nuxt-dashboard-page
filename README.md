@@ -7,16 +7,6 @@ The only reason I made this project was to learn how to use Vue, Vuetify and Fir
 
 I made this website after watching the videos in the playlist mentioned above, as it was the first time I was learning about Vuetify, practicing it would be good for my understanding of the framework! Same goes for Vue, although it wasn't the first time I used Vue or Nuxt.
 
-As there were many things that could be improved on The Net Ninja's page, I decided to make improvements as I made the website.
-
-I have ended up spending the whole last week working on this page, since as I said, it was the first time I used Vuetify, as well as Firebase/Firestore... And there were many logical bugs, which were fixed overtime, some still need fixing though. Probably 80% of the errors I had were with Firebase.
-
-But regardless, I never planned on working a whole week on a single project, I'm not trying to make projects currently, I'm just trying to learn new things, which I did throughout the week, as bugs surfaced and I fixed them, but I haven't had the time to look at any other fresh topics due to my complete focus being in this page.
-
-Currently, this page is about 10% of what I want it to be, as there are many things still missing, improvements that could be made, errors that need to be fixed, security measurements to be taken, etc...
-
-But as I said, I can't spend too much time on a single project, so I have to jump on to something else... Maybe I will finish the page in the future, or maybe not. To be honest, I know exactly what I need to do, how I want it, and how I could implement it. But even knowing exactly what I want/how to do it, it would still take a while to be done, so I'm taking a break on this page for now.
-
 ## Page images
 
 Homepage (Logged out, menu open)
